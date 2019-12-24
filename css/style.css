@@ -96,7 +96,8 @@ a:active, a:hover {
   
 }
 
-#featured a {
+#featured a:hover {
+  
   
   
 } 
